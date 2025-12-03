@@ -2,6 +2,10 @@
 
 A voice-enabled weather assistant that provides real-time weather information for any city. Built with LiveKit Agents Framework, Flask, and OpenWeatherMap API.
 
+## Demo Video
+
+🎥 **Watch the demo:** [https://youtu.be/kQ22u8FCE1U](https://youtu.be/kQ22u8FCE1U)
+
 ## Features
 
 - Voice input and output for natural interaction

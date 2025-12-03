@@ -1,0 +1,15 @@
+# LiveKit Agents Framework (for production voice agent)
+livekit
+livekit-agents[openai]
+livekit-plugins-openai
+livekit-plugins-silero
+
+# Web Framework (for browser-based demo)
+flask
+
+# API Requests
+requests
+python-dotenv
+
+# Additional dependencies
+aiohttp
